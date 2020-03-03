@@ -1,0 +1,10 @@
+server:
+  port: 8881
+spring:
+  data:
+    mongodb:
+      database: qxb_data
+      host: 10.8.0.8
+      port: 27017
+      username: daokoujinke
+      password: Daokoujinke@123
