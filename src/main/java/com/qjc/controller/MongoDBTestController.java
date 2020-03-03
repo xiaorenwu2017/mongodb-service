@@ -11,6 +11,7 @@ import java.util.List;
 @RequestMapping(value = "/mongodb")
 public class MongoDBTestController {
 
+
     @Resource
     private MongoDBTestService mongoDBTestService;
 
